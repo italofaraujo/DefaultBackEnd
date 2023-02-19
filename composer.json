@@ -1,0 +1,17 @@
+{
+    "name": "italo/default-back-end",
+    "description": "Um projeto padr\u0000o de uma API em php",
+    "require": {
+        "robmorgan/phinx": "^0.13.4",
+        "pecee/simple-router": "5.0.0.3",
+        "illuminate/database": "^9.52",
+        "vlucas/phpdotenv": "^5.5",
+        "firebase/php-jwt": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "Italo Araujo",
+            "email": "italofaraujo@gmail.com"
+        }
+    ]
+}
